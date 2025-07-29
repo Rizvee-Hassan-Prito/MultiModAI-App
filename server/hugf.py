@@ -26,7 +26,7 @@ def hugf_Model(prompt):
 # # Your Hugging Face API token
 
 # def hugf_Model(prompt):
-#     API_TOKEN = "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"
+#     API_TOKEN = ""
 #     messages = [
 #         {
 #             "role": "user",
