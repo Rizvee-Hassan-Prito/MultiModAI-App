@@ -5,7 +5,7 @@ from huggingface_hub import login
 
 login(token="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")
 def hugf_Model(prompt):
-    API_TOKEN = "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"
+    API_TOKEN = ""
     messages = [
         {
             "role": "user",
